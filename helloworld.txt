@@ -1,2 +1,2 @@
-Hi, I'm Yushi ogra
+Hi, I'm Yushi Mogra
 This is a test on VIM
